@@ -1,7 +1,7 @@
 #Data Cleaning Course Project
 
 ##Script Description
-First, we read the required into objects in R.
+First, we read the data required into objects in R.
 
 Then we use rbind to combine the training and testing datasets
 
